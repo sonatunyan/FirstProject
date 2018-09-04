@@ -1,4 +1,4 @@
-#This is a comment
+#This file includes all the files and file extentions to be ingnored.
 commits_explore_california.txt
 *.zip
 *.gz

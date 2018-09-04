@@ -1,0 +1,9 @@
+#This is a comment
+commits_explore_california.txt
+*.zip
+*.gz
+log/*.log
+log/*log.[0-9]
+assents/videos/
+!assets/videos/tour_*.mp4
+
